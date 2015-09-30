@@ -47,10 +47,10 @@ table {
 	border-spacing: 0;
 }
 
-li{font-family:  "Cheddar Jack"; float:left; margin:10px; padding-left:45px ;font-size:30px; line-height:1.5em; }
+li{font-family:  Cheddar Jack; float:left; margin:10px; padding-left:45px ;font-size:30px; line-height:1.5em; }
 
-h1{font-family:  "Cheddar Jack";float:left; margin:5px;padding-left:55px 60px ; font-size:30px;line-height:4.5em;
+h1{font-family:  Cheddar Jack;float:left; margin:5px;padding-left:55px 60px ; font-size:30px;line-height:4.5em;
 }
-p{ float:left; font-family:"Times New Roman", Times, serif; font-size:15px;}
+p{ float:left; font-family:Times New Roman; font-size:15px;}
 
-h2 {font-family:  "Cheddar Jack"; float:left; margin:5px; padding-left:45px ;font-size:30px; line-height:1.5em;}
+h2 {font-family:Cheddar Jack; float:left; margin:5px; padding-left:45px ;font-size:30px; line-height:1.5em;}
