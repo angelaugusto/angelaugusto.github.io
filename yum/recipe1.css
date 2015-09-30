@@ -64,5 +64,5 @@ h3 {font-family: "TrendSansOne"; line-height:4.750em; text-align:center; }
 
 li{font-family: "Adobe Garamond Pro";line-height:1.50em}
 
- #content > ul> {text-align:center;}
-   #class > ol> {text-align:center;}
+ #content > ul {text-align:center;}
+   #class > ol {text-align:center;}
