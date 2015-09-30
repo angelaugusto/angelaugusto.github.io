@@ -51,18 +51,18 @@ table {
 
 
 
-h1 {font-family:"TrendSansOne"; font-size:24px; line-height:1.5em; text-align:center;
+h1 {font-family:"Trend Sans One"; font-size:24px; line-height:1.5em; text-align:center;
 
 }
-h2 {font-family: "TrendSansOne";  line-height:1.750em;
+h2 {font-family: "Trend Sans One";  line-height:4.750em; text-align:center
 }
 
-h4 {font-family:"CheddarJack"; font-size:40px; color:#666; line-height:0.5em; text-align:center; 
+h4 {font-family:"Cheddar Jack"; font-size:40px; color:#666; line-height:0.5em; text-align:center; 
  } 
 
-h3 {font-family: "TrendSansOne"; line-height:1.750em}
+h3 {font-family: "Trend Sans One"; line-height:4.750em; text-align:center; }
 
-li{font-family: "AdobeGaramondPro";line-height:1.50em}
+li{font-family: "Adobe Garamond Pro";line-height:1.50em}
 
- 
-  
+ #content > ul> {  text-align:center;}
+   #class > ol> {  text-align:center;}
