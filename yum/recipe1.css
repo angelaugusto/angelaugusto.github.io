@@ -1,4 +1,4 @@
-YOUR CSS BEGINS AFTER THE RESET
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -52,5 +52,5 @@ table {
 
 
 
-body { padding: 100;
+h1 { color: #0F6;
 	}
