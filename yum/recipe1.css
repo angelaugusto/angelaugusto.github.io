@@ -47,15 +47,15 @@ table {
 	border-spacing: 0;
 }
 
-body {position:absolute}
+header {position:relative}
 
-h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; text-align:center; position:realtive; top:100px;
+h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; position:absolute; top:250px; right:250;
 }
 
 h2 {font-family:TrendSansOne;line-height:4.750em; text-align:center;
 }
 
-h4 {font-family:Cheddar Jack; font-size:40px; color:#666; padding:7px 14px; line-height:0.5em; text-align:center; position:absolute; bottom:180px; right: 180px;  
+h4 {font-family:Cheddar Jack; font-size:40px; color:#666; padding:7px 14px; line-height:0.5em;   
  } 
 
 h3 {font-family: TrendSansOne; line-height:4.750em; text-align:center; position:absolute; top: 200px; right: 180px; }
