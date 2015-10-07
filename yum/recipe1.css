@@ -58,7 +58,7 @@ body { width:960px; margin:0 auto; position:relative;}
 h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; position:absolute; top:20px;
 }
 
-h2 {font-family:TrendSansOne;line-height:4.750em; }
+h2 {font-family:TrendSansOne;line-height:4.750em; position:absolute; left:300px }
 
 h4 {font-family:Cheddar Jack; font-size:40px; color:#666; line-height:0.5em;   
    } 
