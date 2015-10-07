@@ -53,7 +53,7 @@ table {
 
 header {position:absolute; right:300px; top:300px;}
 
-body { width:960px; margin:0 auto; position:relative;background_color:green; width:300px; height:450px;}
+body { width:960px; margin:0 auto; position:relative;}
 
 h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; position:absolute; top:20px;
 }
