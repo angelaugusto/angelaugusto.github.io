@@ -51,9 +51,11 @@ table {
 
 
 
-header {position:relative; }
+header {position:absolute; right:300px; top:30px;}
 
-h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; 
+body { width:960px; margin:0 auto; position:relative;}
+
+h1 {font-family:TrendSansOne; font-size:24px; line-height:1.5em; position:absolute; top:20px;
 }
 
 h2 {font-family:TrendSansOne;line-height:4.750em; }
@@ -66,7 +68,8 @@ h3 {font-family: TrendSansOne; line-height:4.750em; text-align:center;}
 li{font-family: Adobe Garamond Pro;line-height:1.50em;  }
 
  #content > ul {text-align:right;padding-right: 370px; }
-   #content2 > ol {text-align:left; padding-left: 370px; }
+  
+ #content2 > ol {text-align:left; padding-left: 370px; }
    
    
    
