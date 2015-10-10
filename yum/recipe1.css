@@ -79,7 +79,7 @@ li{font-family: Adobe Garamond Pro;line-height:1.8em;  }
  #content2 > ol {text-align:left; position:absolute; right:230px; top:420px; 
  	 height:150px; width:300px;
  	}
-   
+   .custom-counter li : : before { font-size: 3px;}
      
  #nextrecipe >a 
    
