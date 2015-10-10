@@ -50,7 +50,6 @@ table {
 
 
 
-
 header {position:absolute; right:400px; top:300px;}
 
 body { width:960px; margin:0 auto; position:relative;}
@@ -60,11 +59,11 @@ h1 {font-family:TrendSansOne; font-size:30px; line-height:1.5em;
 }
 
 h2 {font-family:TrendSansOne; line-height:4em; 
-	position:absolute; left:300px; top:90px;
+	position:absolute; left:305px; top:110px;
  	}
 
-h4 {font-family:CheddarJack; font-size:43px; color:gray ; line-height:0.10em; 
-	padding-left: 130px; 
+h4 {font-family:CheddarJack; font-size:43px; color:gray ; line-height:0.30em; 
+	padding-left: 134px; 
 
    } 
 
@@ -74,8 +73,8 @@ h3 {font-family: TrendSansOne; line-height:4.750em; text-align:left; position:ab
 li{font-family: Adobe Garamond Pro;line-height:1.8em;  
 }
 
- #content > ul {text-align:right; position:absolute; left:230px; top:135px; 
- 	 height:110px; width:200px;}
+ #content > ul {text-align:right; position:absolute; left:230px; top:160px; 
+ 	 height:110px; width:200px; }
   
  #content2 > ol {text-align:left; position:absolute; right:240px; top:420px; 
  	 width: 290px; height: 350px;  line-height: 3em;
@@ -86,35 +85,16 @@ li{font-family: Adobe Garamond Pro;line-height:1.8em;
  }
 
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
