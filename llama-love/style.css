@@ -53,31 +53,45 @@ table {
 /* -----------------END RESET---------------- */
 
 
-body { font-family:helvetica; 
+body { width:960px; margin:0 auto; position:relative; 
 }
 
 
 
 article {float:left; 
-	background-color:green;
-	width:40%;
-	margin-left:5%;
-	margin-right:5%;
+	background-color:white;
+	width:320px;
+	margin-left:15px;
+	margin-right:30px;
+	margin-top: 200px;
+	padding:30px;
+
 	}
 	
 	
 	img {float:left;
+		width:50%;
 	  margin-right:20px ;
-		margin-bottom:20px;
+	  margin-left: 3px;
+	  margin-bottom: 5px;
+		
 		}
 	
 
+	h1 {font-family: helvetica; font-weight: bold; 
+		 font-size:19px; margin-bottom: 3px}
 	
+	h2{ font-family: helvetica; font-size: 10px; font-weight: lighter; color: darkgray; 
+         margin-bottom: 15px
+	}
+
+	p{ 
+		font-family: helvetica; 
+		font-size: 10px; line-height:14px; margin: 5px; 
 	
+     }
 	
-	
-	
-	
+	#maincontent >
 	
 	
 	
