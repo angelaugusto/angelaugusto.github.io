@@ -69,18 +69,21 @@ nav {border-top:5px solid black; height:50px;
 	}		
 		
 article {padding-left:10px ;
-	float:right ; margin:150px;margin-left:10px; margin-top: 30px;
+	float:right ; margin:150px;margin-left:10px; margin-top: 10px;
 	  background-color: white; width: 250px; height:20px;
 	}
 
 
-h1{ font-size:30px; font-weight: bold ;padding-bottom: 2px }
+h1{ font-size:25px; font-weight: bold ;padding-bottom: 2px }
 
-#content1 { position: absolute; left:0px; top:280px;}
+ #content1 img { width:350px;}
+
+#content1 { position: absolute; left:0px; top:220px
+}
+ #content2 img { width:34px;}
 
 
-#content2 > p {background-color: red ; width:150px; height:200px; }
-h2{font-size:30px; font-weight: bold; }
+h2 {font-size:25px; font-weight: bold;  }
 
 
 footer 
