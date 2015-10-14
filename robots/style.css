@@ -50,3 +50,53 @@ table {
 	border-spacing: 0;
 }
 
+
+
+
+
+
+
+
+
+
+
+body{ width:70%; margin:0 auto; position:relative; 
+
+}
+
+
+#site-wrapper { width:100%; background-color: brown; height: 20px;
+
+
+} 
+#site-header { width:70%; background-color: yellow;  magin:0 auto;
+	position: relative;
+
+}
+
+#site-header h1{ position: absolute; top: 0%; left:0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

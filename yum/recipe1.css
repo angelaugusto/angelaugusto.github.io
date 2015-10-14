@@ -75,7 +75,8 @@ li{font-family: Adobe Garamond Pro;line-height:1.8em;
 }
 
  #content > ul {text-align:right; position:absolute; left:230px; top:135px; 
- 	 height:110px; width:200px;}
+ 	 height:110px; width:200px;
+ 	 clear: both;}
   
  #content2 > ol {text-align:left; position:absolute; right:240px; top:420px; 
  	 width: 290px; height: 350px;  line-height: 3em;
@@ -84,7 +85,9 @@ li{font-family: Adobe Garamond Pro;line-height:1.8em;
 
  .numbers span {font-family:trendsansone; color:black;
  }
-
+#block {
+position:absolute;
+top:700px; left:200px;}
 
    
    
