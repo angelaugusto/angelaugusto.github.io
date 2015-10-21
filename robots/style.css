@@ -64,48 +64,26 @@ h1 {
 }
 
 h2 {
-	color:#7F5217;
-	font-family:helvetica;
-	text-transform:uppercase;
-	font-size:18px;
-	font-weight:bold;
-	padding-top:20px;
-	padding-bottom:20px;
+	color:#7F5217; font-family:helvetica; text-transform:uppercase; font-size:18px;
+	font-weight:bold;padding-top:20px;padding-bottom:20px;
 	
 }
-
-
-nav li {
-   list-style-type:none;
-   float:left;
-   margin:0 auto;
-   padding:18px 14px;
-   color:white;
-   text-transform:uppercase;
-   font-family:helvetica;
-   font-size:14px;
-   font-weight:bold;
+nav li {list-style-type:none;float:left;margin:0 auto; padding:18px 14px;
+   color:white;text-transform:uppercase;
+   font-family:helvetica;font-size:14px;font-weight:bold;
    text-decoration:none;
  }
  
- body {
-
-	 
+ body { margin-top: 5%;
 	
  }
 
  p {
-	 
-	 font-family:helvetica;
-	 line-height:20px;
-	 font-size:12px;
-	 padding-right:270px;}
+	font-family:helvetica;line-height:20px;font-size:12px;padding-right:270px;}
 	 
 	 #site-wrapper {
 		 width:100%;
-		 background-color:#7F5217;
-		 
-	 	
+		 background-color:#7F5217; 	
 	 }
 	 
 	 #site-header h1 {
@@ -116,13 +94,14 @@ nav li {
 	 
 	 #site-header nav {
 		 position:absolute;
-		 top:0;
-		 right:0;
+		 top:7%;
+		 right:0;font-family: helvetica; font-size:10px; text-decoration:none; 
+		 word-spacing:10px;
 	 }
 	 
 	 #site-header {
-		 width:70%;
-		 background-color:#F5F5CC;
+		 width:100%;
+		 background-color:#F5F5CC; 
 	
 	 }
 	 
@@ -147,7 +126,7 @@ nav li {
 	 
 	 #main-menu {
 		 margin:0 auto;
-		 width:70%;
+		 width:83%;
 	 }
 	 
 	 #main-menu a {
@@ -161,6 +140,7 @@ nav li {
 		 text-decoration:none;
 		 line-height:20px;
 		 font-family:helvetica;
+		 margin-top: 5%;
 		 
 	 }
 	 
@@ -177,15 +157,16 @@ nav li {
 	 
 	 #content-wrapper {
 		 margin:0 auto;
-		 width:70%
+		 width:80%
 	 }
 	 
 	 #footer-wrapper {
 		 clear:both;
 		 background-color:#7F5217;
 		 width:100%;
-		 height:100px;
+		 height:150px;
 		 margin:0 auto;
+		 margin-top: 50%; margin-bottom:10%
 	 }
 	 
 	 #footer-contact {
@@ -195,13 +176,16 @@ nav li {
 	 }
 	 
 	 #footer-contact p {
-		 padding-left:200px;
+		 padding-left:50px;
+		 margin-right: 0%; margin-left: 20%; 
+		
+
 		 
 	 }
 	 
 	 #footer-follow {
 		 float:left;
-		 width:50%;
+		 width:40%;
 	 }
 	 
 	 #footer-follow li {
