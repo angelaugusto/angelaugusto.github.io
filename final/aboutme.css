@@ -50,38 +50,51 @@ table {
 
 
 body { width:960px; 
-	   margin-left:30px;
+	   
 	   position:relative; 
-	   top: 0px; 
-
 }
 
 
-nav li { background: gray;
-	    font-family: TrendSansOne; 
-	    font-size: 15px; 
-	    color:black;
-	    text-transform:uppercase; 
-	    padding-left:10px;
+
+nav li { font-family: TrendSansOne; 
+	    font-size: 15px;  
+	    
+         color:black;
+	    margin-top: 80px;
+	    margin-bottom: 70px;
+	    padding-right: 200px;
+
+	    
+
 	}
+
+
+	header { padding-left: 30px; padding-right: 200px; 
+	}
+
+
 
 
 h1 { position:absolute; 
 	left:500px; 
-	top: 300px; 
+	top: 200px; 
 	font-family: TrendSansOne; 
 	font-size: 30px;
 }
 
 p { position:absolute; 
 	left:500px; 
+	bottom:300px;
 	font-family:garamond;
 	 font-size: 20px;
+
+	
 }
 
 
-#content2 img { width:350px;}
+#content2 img { width:250px;  
 }
+
 
 
 
