@@ -58,7 +58,6 @@ body { width:960px;
 
 nav li { font-family: TrendSansOne; 
 	    font-size: 13px;  
-	    color:black;
 	    margin-top: 80px;
 	    margin-bottom: 70px;
 	    margin-right: 650px;
@@ -67,16 +66,20 @@ nav li { font-family: TrendSansOne;
 	        
 }
 
-nav li a:hover {color:red;
 
+.active1 {color:yellow;
+}
+.active2 {color:purple;
+}
+.active2 {color:blue ;
+}
+a:link {text-decoration: none;
 }
 
-a:link {text-decoration: none
-}
+a:hover {font color:green;}
 
 
-
-	header { padding-left:20px; position:fixed;
+header { padding-left:20px; position:fixed;
 	}
 
 
