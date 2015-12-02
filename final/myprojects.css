@@ -67,9 +67,12 @@ nav li { font-family: TrendSansOne;
 	    margin-left: 35px;
 	    text-align: center;
 	   
-	   
-	   
+	   }
+
+
+a:link {text-decoration: none
 }
+	   
 
 header { padding-left:20px; 
 	position:fixed;

@@ -51,17 +51,20 @@ table {
 
 
 
-body { width:960px; margin:0 auto; position:relative; top:100px;
+body { width:100%; margin:0 auto; position:relative; top:100px; 
 
 }
 
-#content img {width:400px; padding-left:250px;  }
+#content img {width:30%; padding-left:530px;  }
 
-nav li { float:left;
+nav li { display:inline-block;
 	margin:10px; font-family:garamond; font-size: 25px; 
-	text-transform:uppercase;font-weight: 
-	bold; padding-left:55px;
+	text-transform:uppercase; font-weight: bold; 
+	padding-left:55px;
 	}
+
+
+nav ul {text-align: center}
 
 nav {border-top:3px solid black; height:40px;
 	margin:30px;
@@ -69,26 +72,25 @@ nav {border-top:3px solid black; height:40px;
 	height:40px; margin:30px;
 	}		
 		
-article {
-	float:left; margin:40px; margin-left:40px; margin-top:0px;
-	  background-color: white; width:350px; 
+article 
+    { float:left; margin:40px; margin-left:300px; margin-top:0px;
+	  background-color: white; width:40%; 
 	}
 
 
 h1{font-family: garamond; font-size:25px; font-weight: bold;
 	margin-top: 10px; margin-bottom: 10px;}
 
-#sec {  left:470px; bottom:30px; background-color: white;
- height:550px; width: 500px; 
+#sec {  float: left; bottom:30px; background-color: white;
+ height:550px; width: 100%; 
 }
 
-#content1 img { width:350px; }
 
-#content1 { position: absolute;left:0px; top:220px}
+#content1 { left:0px; top:220px}
 
-#content2 {position: absolute; right:0px; top:220px}
+#content2 { right:0px; top:220px; bottom: 3px}
 
-#content2 img { width:350px;}
+#content2 img { width:40%;}
 
 
 h2 {font-family: garamond; font-size:25px; font-weight: bold;
@@ -106,7 +108,8 @@ p {font-family: garamond; line-height:1.3em; }
 
 
 
-
+@media screen and (max-width: 900px )
+{nav li {padding:10px { }
 
 
 
