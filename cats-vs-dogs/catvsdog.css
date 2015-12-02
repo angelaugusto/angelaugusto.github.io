@@ -86,11 +86,16 @@ h1{font-family: garamond; font-size:25px; font-weight: bold;
 }
 
 
-#content1 { left:0px; top:220px}
+#content1 { left:0px; top:220px
 
-#content2 { right:0px; top:220px; bottom: 3px}
+}
 
-#content2 img { width:40%;}
+#content2 { right:0px; top:220px; 
+
+}
+
+#content2 img { width:40%;
+}
 
 
 h2 {font-family: garamond; font-size:25px; font-weight: bold;

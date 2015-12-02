@@ -67,9 +67,14 @@ nav li { font-family: TrendSansOne;
 	        
 }
 
-a:link {text-decoration: none
+nav li a:hover {color:red;
 
 }
+
+a:link {text-decoration: none
+}
+
+
 
 	header { padding-left:20px; position:fixed;
 	}
