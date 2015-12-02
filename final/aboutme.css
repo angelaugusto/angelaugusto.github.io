@@ -49,21 +49,39 @@ table {
 
 
 
-body { width:960px; margin-left:30px; position:relative; top: 0px; 
+body { width:960px; 
+	   margin-left:30px;
+	   position:relative; 
+	   top: 0px; 
 
 }
 
 
-nav li { 
-	margin:10px; font-family:trendsans; font-size: 25px; 
-	text-transform:uppercase; padding-left:55px;
+nav li { background: gray;
+	    font-family: TrendSansOne; 
+	    font-size: 15px; 
+	    color:black;
+	    text-transform:uppercase; 
+	    padding-left:10px;
 	}
 
 
+h1 { position:absolute; 
+	left:500px; 
+	top: 300px; 
+	font-family: TrendSansOne; 
+	font-size: 30px;
+}
+
+p { position:absolute; 
+	left:500px; 
+	font-family:garamond;
+	 font-size: 20px;
+}
 
 
-
-
+img { border-top: 200px;
+}
 
 
 
