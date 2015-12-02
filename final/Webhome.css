@@ -60,19 +60,23 @@ nav li { font-family: TrendSansOne;
 	    font-size: 13px;  
 	    color:black;
 	    margin-top: 80px;
-	    margin-right: 750px;
+	    margin-bottom: 70px;
+	    margin-right: 650px;
+	    margin-left: 35px;
 	    text-align: center;
-}
+	        
 
-header { padding-left:20px; 
+	}
 
-}
+
+	header { padding-left:20px; position:fixed;
+	}
 
 
 
 
 h1 { position:absolute; 
-	left:470px; 
+	left:550px; 
 	top: 300px; 
 	font-family: TrendSansOne; 
 	font-size: 80px;
@@ -82,7 +86,8 @@ h1 { position:absolute;
 	
 #content1 img { padding-left: 40px; }
 
-#content2 img { width:180px; margin-top:270px; margin-left: 30px}
+#content2 img { position: absolute; width:180px; left:30px;
+	margin-top:200px; }
 
 
 
