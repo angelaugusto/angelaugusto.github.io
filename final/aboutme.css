@@ -60,9 +60,9 @@ nav li { font-family: TrendSansOne;
 	    font-size: 13px;  
 	    color:black;
 	    margin-top: 80px;
-	    margin-bottom: 70px;
-	    padding-right: 750px;
+	    margin-right: 750px;
 	    text-align: center;
+	    
 
 	    
 
@@ -95,7 +95,7 @@ p { position:absolute;
 
 #content1 img { padding-left: 40px; }
 
-#content2 img { width:300px;}
+#content2 img { width:300px; margin-top:95px; }
 
 
 
