@@ -93,8 +93,9 @@ h1 {position: absolute; left: 430px; right: -300px; top: 100px; font-family: Tre
 }
 
 
-p {position: absolute; left:525px;  top:150px;  
-	font-family: garamond; font-size: 18px; line-height: 20px;  
+
+p {position: absolute; left:100px; right:-200px; top:150px; margin-left: 250px;
+	font-family: garamond; font-size: 18px; line-height: 20px; }
 
 
 
