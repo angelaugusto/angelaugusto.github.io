@@ -81,25 +81,20 @@ header { padding-left:20px;
 
 #content1 img { padding-left: 40px;}
 
-#content2 img { width:210px; margin-top:25px;  margin-left:-12px;}
+#content2 img { width:210px; margin-top:25px;  margin-left:-12px; }
 
 
-section {position: absolute; left: 490px; top:250px;  }
 
-h1 {position: absolute; left: 430px; right: -200px;  top: 100px; font-family: TrendSansOne; 
+
+section {position: absolute; left: 490px; top:250px;  box-shadow: 2px 2px 15px #d4d4d4;  }
+
+h1 {position: absolute; left: 580px; top: 100px; font-family: TrendSansOne; 
 	    font-size: 40px; letter-spacing: -3px; 
 }
 
 
-p {position: absolute; left:500px; right:px; top:150px;  
+p {position: absolute; left:525px;  top:150px;  
 	font-family: garamond; font-size: 18px; line-height: 20px;  
-
-	
-
-
-
-
-
 
 
 
