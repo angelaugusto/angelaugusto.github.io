@@ -59,14 +59,13 @@ body { width:960px; position:relative;
 }
 
 nav li { font-family: TrendSansOne; 
-	    font-size: 13px;  
-	    color:black;
+	    font-size: 13px;
 	    margin-top: 80px;
 	    margin-bottom: 70px;
 	    margin-right: 650px;
 	    margin-left: 35px;
 	    text-align: center;
-	   
+	  
 	   }
 
 
@@ -76,12 +75,9 @@ a:link {text-decoration: none
 
 header { padding-left:20px; 
 	position:fixed;
+	clear:both;
    
 	}
-
-
-
-
 
 	
 #content1 img { padding-left: 40px;}
@@ -89,7 +85,7 @@ header { padding-left:20px;
 #content2 img { width:230px; margin-top:30px;  margin-left:-30px;}
 
 
-section {position: absolute; left: 300px; top: 300px;  }
+section {float:right;   top: 400px;  width:600px;}
 
 
 section img { float: left; width: 50%;  

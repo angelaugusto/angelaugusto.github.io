@@ -63,6 +63,7 @@ nav li { font-family: TrendSansOne;
 	    margin-right: 650px;
 	    margin-left: 35px;
 	    text-align: center;
+	    
 	        
 }
 
@@ -73,6 +74,7 @@ nav li { font-family: TrendSansOne;
 }
 .active2 {color:blue ;
 }
+
 a:link {text-decoration: none;
 }
 
