@@ -88,12 +88,10 @@ header { padding-left:20px;
 
 section {position: absolute; left: 490px; top:250px;  box-shadow: 2px 2px 15px #d4d4d4;  }
 
-section img { float: left; width: 50%;  
-
-}
 
 
-h1 {position: absolute; left: 430px; right: -300px; top: 100px; font-family: TrendSansOne; 
+
+h1 {position: absolute; left: 530px; right: -300px; top: 100px; font-family: TrendSansOne; 
 	    font-size: 40px; letter-spacing: -3px; 
 }
 
