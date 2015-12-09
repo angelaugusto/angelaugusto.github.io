@@ -91,7 +91,7 @@ section {float:right; top:400px;  width:700px;
 }
 
 
-section img { float: left; width: 50%;  margin-left:250px;
+section img { float: left; width: 50%;  margin-left:250px; box-shadow: 2px 2px 15px #d4d4d4;
 
 }
 
