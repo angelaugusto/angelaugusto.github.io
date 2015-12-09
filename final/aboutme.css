@@ -56,7 +56,7 @@ body { width:960px;
 
 
 
-nav li { font-family: TrendSansOne; 
+nav li { font-family: furura; 
 	    font-size: 13px;  
 	    margin-top: 80px;
 	    margin-bottom: 70px;
@@ -68,12 +68,7 @@ nav li { font-family: TrendSansOne;
 }
 
 
-.active1 {color:yellow;
-}
-.active2 {color:purple;
-}
-.active2 {color:blue ;
-}
+
 
 a:link {text-decoration: none;
 }
@@ -107,7 +102,7 @@ p { position:absolute;
 
 }
 
-#content1 img { padding-left: 40px; }
+#content1 img { padding-left: 30px; }
 
 #content2 img { position:absolute; width:300px; left: -40px; margin-top: 30px }
 
