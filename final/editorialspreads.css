@@ -87,9 +87,9 @@ header { padding-left:20px;
 #content2 img { width:210px; margin-top:25px;  margin-left:-12px;}
 
 
-section {position: absolute; left: 500px; top:240px;   box-shadow: 2px 2px 15px #d4d4d4; }
+section {position: absolute; left: 380px; top:240px;   box-shadow: 2px 2px 15px #d4d4d4; }
 
-h1 {position: absolute; left: 480px; top: 100px; font-family: helvetica; 
+h1 {position: absolute; left: 590px; top: 100px; font-family: helvetica; 
 	    font-size: 35px; text-transform: uppercase; margin-right: -110px;
 }
 

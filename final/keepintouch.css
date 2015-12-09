@@ -53,19 +53,17 @@ table {
 
 
 
-
 body { width:960px; position:relative; 
 }
-
 
 nav li { font-family: helvetica; 
 	    font-size: 13px;  
 	    margin-top: 80px;
 	    margin-bottom: 70px;
-	    margin-right: 220px;
+	    margin-right: 250px;
 	    margin-left: 7px;
 	    text-align: center;
-	    font-weight: bolder;
+	    font-weight: bolder; 
 
 	  
 	   }
@@ -84,20 +82,50 @@ header { padding-left:20px;
 	
 #content1 img { padding-left: 40px;}
 
-#content2 img { width:210px; margin-top:25px;  margin-left:-12px;}
+#content2 img { width:210px; margin-top:35px;  margin-left:-50px;}
 
+section img {width: 25px; margin-bottom: 30px; padding-right: 500px; 
+	margin-left:200px;padding-top: 30px
 
-section {position: absolute; left: 500px; top:240px;  box-shadow: 2px 2px 15px #d4d4d4; }
+	 }
 
+section {position: absolute; left:450px; top:300px;  }
 
+h1 { position:absolute; 
+	left:650px; 
+	top: 250px; 
+	font-family: helvetica; 
+    font-size: 30px;
+	
 
-h1 {position: absolute; left: 575px; top: 100px; font-family: helvetica; 
-	    font-size: 35px; text-transform: uppercase; margin-right: -110px;
 }
 
+p { position:absolute; 
+	top: 290px;
+	left: 560px;
+	font-family: helvetica;
+	font-size: 18px;
+	line-height: 93px;
+	padding-left:140px; 
+	padding-right: 300px;
 
-p {position: absolute; left:500px; right:-60px; top:150px;  
-	font-family: garamond; font-size: 18px; line-height: 20px; 
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
