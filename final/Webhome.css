@@ -55,15 +55,14 @@ body { width:960px;
 }
 
 
-
-nav li { font-family: TrendSansOne; 
+nav li { font-family: helvetica; 
 	    font-size: 13px;  
-	    color:black;
 	    margin-top: 80px;
 	    margin-bottom: 70px;
-	    margin-right: 650px;
-	    margin-left: 35px;
+	    margin-right: 230px;
+	    margin-left: 39px;
 	    text-align: center;
+	    font-weight: bolder;
 	        
 }
 a:link {text-decoration: none
@@ -78,10 +77,10 @@ a:link {text-decoration: none
 h1 { position:absolute; 
 	left:550px; 
 	top: 300px; 
-	font-family: TrendSansOne; 
-	font-size: 80px;
-	letter-spacing: -2px;
-}
+	font-family: helvetica; 
+	font-size: 50px;
+	text-transform: uppercase; }
+	
 
 	
 #content1 img { padding-left: 40px; }
