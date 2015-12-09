@@ -52,22 +52,23 @@ table {
 
 
 
-
-
+body { width:960px; position:relative; 
+}
 
 body { width:960px; position:relative; 
 }
 
-nav li { font-family: TrendSansOne; 
+nav li { font-family: helvetica; 
 	    font-size: 13px;  
-	    color:black;
 	    margin-top: 80px;
 	    margin-bottom: 70px;
-	    margin-right: 650px;
-	    margin-left: 35px;
-	    text-align: center;   
-	   
-}
+	    margin-right: 220px;
+	    margin-left: 7px;
+	    text-align: center;
+	    font-weight: bolder;
+
+	  
+	   }
 
 
 a:link {text-decoration: none
@@ -75,27 +76,26 @@ a:link {text-decoration: none
 
 
 header { padding-left:20px; 
-	position:fixed;
+	position:fixed; 
+	clear:both; width:30%;
    
 	}
 
+	
 #content1 img { padding-left: 40px;}
 
-#content2 img { width:210px; margin-top:25px;  margin-left:-12px; }
+#content2 img { width:210px; margin-top:25px;  margin-left:-12px;}
 
 
+section {position: absolute; left: 500px; top:240px;   box-shadow: 2px 2px 15px #d4d4d4; }
 
-
-section {position: absolute; left: 390px; top:250px;  box-shadow: 2px 2px 15px #d4d4d4;  }
-
-h1 {position: absolute; left: 530px; right: -300px; top: 100px; font-family: TrendSansOne; 
-	    font-size: 40px; letter-spacing: -3px; 
+h1 {position: absolute; left: 480px; top: 100px; font-family: helvetica; 
+	    font-size: 35px; text-transform: uppercase; margin-right: -110px;
 }
 
 
-p {position: absolute; left:100px; right:-200px; top:150px; margin-left: 300px;
-	font-family: garamond; font-size: 18px; line-height: 20px;  }
-
+p {position: absolute; left:500px; right:-60px; top:150px;  
+	font-family: garamond; font-size: 18px; line-height: 20px; 
 
 
 
