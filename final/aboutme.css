@@ -60,12 +60,12 @@ nav li { font-family: helvetica;
 	    font-size: 13px;  
 	    margin-top: 80px;
 	    margin-bottom: 70px;
-	    margin-right: 650px;
-	    margin-left: 35px;
+	    margin-right: 220px;
+	    margin-left: 44px;
 	    text-align: center;
 	    font-weight: bolder;
 
-	    
+
 	        
 }
 
@@ -105,7 +105,7 @@ p { position:absolute;
 
 }
 
-#content1 img { padding-left: 30px; }
+#content1 img { padding-left: 40px;}
 
 #content2 img { position:absolute; width:300px; left: -40px; margin-top: 30px }
 
