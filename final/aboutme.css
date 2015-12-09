@@ -56,13 +56,15 @@ body { width:960px;
 
 
 
-nav li { font-family: furura; 
+nav li { font-family: helvetica; 
 	    font-size: 13px;  
 	    margin-top: 80px;
 	    margin-bottom: 70px;
 	    margin-right: 650px;
 	    margin-left: 35px;
 	    text-align: center;
+	    font-weight: bolder;
+
 	    
 	        
 }
@@ -70,13 +72,13 @@ nav li { font-family: furura;
 
 
 
-a:link {text-decoration: none;
+a:link {text-decoration: none; 
 }
 
-a:hover {font color:green;}
 
 
-header { padding-left:20px; position:fixed;
+
+header { padding-left:20px; position:fixed; 
 	}
 
 
@@ -85,9 +87,10 @@ header { padding-left:20px; position:fixed;
 h1 { position:absolute; 
 	left:650px; 
 	top: 250px; 
-	font-family: TrendSansOne; 
-	font-size: 30px;
-	letter-spacing: -2px;
+	font-family: helvetica; 
+	word-spacing: 50px;
+    font-size: 30px;
+	font-weight: bolde
 
 }
 

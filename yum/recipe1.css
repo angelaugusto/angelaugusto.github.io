@@ -55,12 +55,12 @@ header {position:absolute; right:400px; top:300px;}
 
 body { width:960px; margin:0 auto; position:relative;}
 
-h1 {font-family:TrendSansOne; font-size:30px; line-height:1.5em; 
-	letter-spacing:-2px; font-weight: normal; 
+h1 {font-family:helvetica; font-size:30px; line-height:1.5em; 
+	font-weight: normal; 
 }
 
-h2 {font-family:TrendSansOne; line-height:4em; 
-	position:absolute; left:300px; top:90px;
+h2 {font-family:helvetica; line-height:4em; 
+	position:absolute; left:350px; top:90px;
  	}
 
 h4 {font-family:CheddarJack; font-size:43px; color:gray ; line-height:0.10em; 
@@ -68,7 +68,7 @@ h4 {font-family:CheddarJack; font-size:43px; color:gray ; line-height:0.10em;
 
    } 
 
-h3 {font-family: TrendSansOne; line-height:4.750em; text-align:left; position:absolute; 
+h3 {font-family: helvetica; line-height:4.750em; text-align:left; position:absolute; 
 	left:430px; top:370px;}
 
 li{font-family: Adobe Garamond Pro;line-height:1.8em;  
@@ -83,11 +83,12 @@ li{font-family: Adobe Garamond Pro;line-height:1.8em;
  	}
     
 
- .numbers span {font-family:trendsansone; color:black;
+ .numbers span {font-family:helvetica; color:black; font-weight: bolder;
  }
+
 #block {
 position:absolute;
-top:700px; left:200px;}
+top:700px; 
 
    
    
